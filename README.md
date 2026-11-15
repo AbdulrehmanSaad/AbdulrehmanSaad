@@ -34,10 +34,6 @@ Passionate full-stack developer specializing in **AI-powered educational tools**
 - **[MBC3 Streamer](https://github.com/yourusername/mbc3-streamer)** *(Personal Project)*  
   Media player tweaks for Arabic cartoons and series, with playlist management and low-latency streaming.
 
-[
-
-## 📈 GitHub Stats
-
 ## 🌟 Let's Connect
 
 Open to collaborations on AI education apps, streaming services, or Flutter/Next.js projects.  
